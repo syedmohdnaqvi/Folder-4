@@ -1,0 +1,18 @@
+
+        body{
+            background-image: url('../images/bgbg.jpg');
+            background-size: cover;
+            color: white;
+            
+        }
+    
+        .a1{
+            height: 95vh;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 100px;
+
+            width: 95vw;
+        }
